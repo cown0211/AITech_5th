@@ -1,4 +1,4 @@
-Pre-Course 과정
+* Pre-Course 과정
 https://www.boostcourse.org/onlyboostcampaitech5/infoPages/370961
 
 
