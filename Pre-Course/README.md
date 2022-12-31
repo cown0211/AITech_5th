@@ -8,8 +8,12 @@ https://www.boostcourse.org/onlyboostcampaitech5/infoPages/370961
 
 ### 1일차
 
-* Python Data Structure https://www.boostcourse.org/ai100/lecture/739169?isDesc=false
-* Python Object Oriented Programming 
+* Python Data Structure 
+  * https://www.boostcourse.org/ai100/lecture/739169?isDesc=false
+  * ref) https://www.youtube.com/watch?v=2T-A_GFuoTo&ab_channel=CS50
+* Python Object Oriented Programming
+  * https://www.boostcourse.org/ai100/lecture/739171?isDesc=false
+  * ref) https://www.rinae.dev/posts/the-faster-you-unlearn-oop-the-better-for-you-and-your-software-kr#%EA%B0%99%EC%9D%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-%EC%97%AC%EB%9F%AC-%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95%EC%9D%B4-%EC%9E%88%EB%8B%A4
 
 
 ### 2일차
