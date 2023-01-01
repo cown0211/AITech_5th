@@ -19,6 +19,8 @@ https://www.boostcourse.org/onlyboostcampaitech5/infoPages/370961
 ### 2일차
 
 * Module and Project
+  * https://www.boostcourse.org/ai100/lecture/739172?isDesc=false
+  * ref) https://www.youtube.com/watch?v=3J02sec99RM&feature=youtu.be&ab_channel=GoogleCloudTech
 * File/Exception/Log Handling
 
 ### 3일차
