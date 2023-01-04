@@ -53,6 +53,8 @@ https://www.boostcourse.org/onlyboostcampaitech5/infoPages/370961
    * https://www.boostcourse.org/ai100/lecture/739177?isDesc=false
    
 * 선형방정식과 선형 시스템
+   * https://www.boostcourse.org/ai251/lecture/540312?isDesc=false
+   
 * 선형결합
 
 
