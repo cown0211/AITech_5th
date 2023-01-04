@@ -26,7 +26,10 @@ https://www.boostcourse.org/onlyboostcampaitech5/infoPages/370961
 ### 3일차
 
 * Numpy
+  * https://www.boostcourse.org/onlyboostcampaitech5/lecture/1456479
+  
 * 벡터가 뭐예요?
+  * https://www.boostcourse.org/ai100/lecture/739176?isDesc=false
 
 ### 4일차
 
